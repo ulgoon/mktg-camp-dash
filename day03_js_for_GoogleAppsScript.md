@@ -428,6 +428,20 @@ element.addEventListener("click", function(){alert('hello')});
 
 
 
+---
+```
+function sayHello(){
+console.log("Hello, I'm Fastcampus!");
+}
+```
+
+```
+function sumPlusOne(num){
+result = num + 1;
+console.log(result);}
+```
+
+
 <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic:400,800" rel="stylesheet">
 <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
 
