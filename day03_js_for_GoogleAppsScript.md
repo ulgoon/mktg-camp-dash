@@ -284,7 +284,7 @@ Document Object Model
 
 ---
 ## DOM
-![](./htmldom5.1.png)
+![](./img/htmldom5.1.png)
 
 ---
 ## with HTML DOM, javaScript can ..
