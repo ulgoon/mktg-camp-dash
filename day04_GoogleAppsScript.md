@@ -46,13 +46,13 @@ function fastCampus(num){
 function doFastCampus(num){
 	for (i=1;i<=num;i++){
 		if (i%15==0){
-			return "fastcampus";
+			console.log("fastcampus");
 	    } else if (i%3==0){
-			return "fast";
+			console.log("fast");
 	    } else if (i%5==0){
-			return "campus";
+			console.log("campus");
 	    } else {
-			return i;
+			console.log(i);
 	    }
 	}
 }
