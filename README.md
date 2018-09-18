@@ -51,3 +51,6 @@ fastcampus
 16
 
 ..
+
+Day4
+- 실습자료: https://docs.google.com/spreadsheets/d/1zd_RQskv8lBs9SibiHisOhveSOMXc8_rMBb3BTEIjZ0/edit?usp=sharing
